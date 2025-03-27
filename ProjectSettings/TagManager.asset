@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - agent
+  - ground
+  - symbol_O
+  - target
+  - stone
+  - pyramid
+  - ex
+  - goal
+  - block
+  - wall
+  - symbol_O_Goal
+  - symbol_X_Goal
+  - symbol_X
+  - key
+  - walkableSurface
+  - blueGoal
+  - purpleGoal
+  - purpleAgent
+  - blueAgent
+  - ball
+  - badFood
+  - food
+  - blockLarge
+  - blockSmall
+  - blockVeryLarge
+  - start
+  - road
+  - pavement
+  - car
+  - chaser
+  - gameArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment
+  - Pedestrians
+  - Vehicles
+  - Chaser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
